@@ -169,6 +169,7 @@ theme:  simple
             <li>the focus is often on summarizing and analyzing a broad set of questions related to a research area.</li>
             </ul>
         </div>
+	</div>
         </section>
         
  </section>
